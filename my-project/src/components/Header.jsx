@@ -13,7 +13,7 @@ function Header() {
   }
   return (
     <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-      <div className="flex gap-5">
+      <div className="flex gap-5 ">
       <NavLink><HiMenuAlt2 className="h-8 w-7"/></NavLink>
       <NavLink><GrSearch className="h-8 w-7"/></NavLink>
         {/* <input
@@ -26,7 +26,7 @@ function Header() {
       <NavLink><img src="/src/assets/img/logo.png" alt="" className="w-18 h-6 ml-7 align-middle" /></NavLink>
       </div>
       <div className="flex justify-end gap-5">
-      <NavLink className="relative">
+      <NavLink to="modal" className="relative">
         <div className="w-2 h-2 bg-red-500 rounded-full absolute  right-1"></div>
           <LuBell className="h-8 w-7"/>
           </NavLink>
