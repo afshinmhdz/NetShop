@@ -2,14 +2,15 @@ import React from "react";
 import { LuBell } from "react-icons/lu";
 import { NavLink } from "react-router-dom";
 import { IoClose } from "react-icons/io5";
-function Modal() {
+function Modal({onOpen,open}) {
+  if(!open)return null;
   return (
     <>
-      {/* <div className="h-screen w-screen fixed inset-0 bg-black/50"></div> */}
+      <div className="h-screen w-screen fixed inset-0 bg-black/50" onClick={()=>onOpen(false)}></div>
       <div className="modal w-96 h-72 absolute top-1/2 left-1/2 p-4 -translate-x-2/4 -translate-y-2/3 bg-white">
         <div className="modal__header flex items-center justify-between ">
           <h3></h3>
-          <button>
+          <button onClick={() => onOpen((is) => !is)}>
             <IoClose className="w-6 h-6" />
           </button>
         </div>
