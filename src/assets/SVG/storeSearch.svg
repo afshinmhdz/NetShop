@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="20" height="18"><defs><symbol id="track-delivery" viewBox="0 0 19.155 17.523">
+    <g transform="translate(-.4 -1.4)">
+        <path data-name="Path 984" d="M8.713 19.242H3V7" transform="translate(-.368 -.919)" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"></path>
+        <path data-name="Path 985" d="M18.955 6.081H1V2h17.955z" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"></path>
+        <path data-name="Line 847" transform="translate(15.55 14.918)" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px" d="M2.589 2.589 0 0"></path>
+        <circle data-name="Ellipse 350" cx="3.5" cy="3.5" r="3.5" transform="translate(10 9)" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2px"></circle>
+    </g>
+</symbol></defs><use xlink:href="#track-delivery"></use></svg>

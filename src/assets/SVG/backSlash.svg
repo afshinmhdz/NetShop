@@ -1,0 +1,5 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="mobileMenu__backIcon" width="6.19"  height="10.98" ><defs><symbol id="navbar-back" viewBox="0 0 6.19 10.98">
+    <path data-name="Path 378" d="M11 3.5 6.5 8l4.5 4.5" transform="translate(-5.8 -2.51)" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.4px"></path>
+</symbol></defs>
+            <use xlink:href="#navbar-back"></use>
+        </svg>

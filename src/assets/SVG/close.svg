@@ -1,0 +1,21 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="icon -size" height="30" width="30"><defs><symbol id="close" viewBox="0 0 30 30">
+    <defs>
+        <style>
+          .close {
+            fill: none;
+            stroke: #111;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            stroke-miterlimit: 10;
+            stroke-width: 1.5px
+          }
+        </style>
+    </defs>
+    <g transform="translate(5.96 11.5)">
+        <path id="icon_frame" fill="none" d="M0 0H30V30H0z" transform="translate(-5.96 -11.5)"></path>
+        <g id="e-remove" transform="translate(-2.96 -8.5)">
+            <path id="Line_238" d="M14 0L0 14" class="close" transform="translate(5 5)"></path>
+            <path id="Line_239" d="M14 14L0 0" class="close" transform="translate(5 5)"></path>
+        </g>
+    </g>
+</symbol></defs> <use xlink:href="#close"></use> </svg>

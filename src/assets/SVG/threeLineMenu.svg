@@ -1,0 +1,5 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="new-header__icon -hamburgerMenu" width="24" height="24"><defs><symbol id="hamburger-menu" width="22" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1 12H23" stroke="#212121" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="square"></path>
+    <path d="M1 5H23" stroke="#212121" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="square"></path>
+    <path d="M1 19H12" stroke="#212121" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="square"></path>
+</symbol></defs><use xlink:href="#hamburger-menu" id="hamburgerMenu"></use></svg>

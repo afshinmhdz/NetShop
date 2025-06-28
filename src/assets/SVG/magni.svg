@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="new-header__icon -search" width="30"  height="30" ><defs><symbol id="search-icon" viewBox="0 0 30 30">
+    <g fill="none" transform="translate(5.96 11.5)">
+        <path stroke="#111" stroke-width="1.5px" d="M6.344 6.344L1.586 1.586 0 0" transform="translate(12.782 7.328)"></path>
+        <circle cx="8" cy="8" r="8" stroke="#111" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.5px" transform="translate(-1.046 -6.672)"></circle>
+        <path d="M0 0H30V30H0z" transform="translate(-5.96 -11.5)"></path>
+    </g>
+</symbol></defs><use xlink:href="#search-icon"></use></svg>

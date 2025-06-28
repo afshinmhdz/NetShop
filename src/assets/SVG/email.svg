@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="icon -size" width="24" height="24"><defs><symbol id="letter-outline" viewBox="0 0 23.4 19.4">
+    <path data-name="Path 685" d="M1 13v6a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-6" style="fill:#fff;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.4px" transform="translate(-.3 -2.3)"></path>
+    <path data-name="Path 686" d="M23 8V5a2 2 0 0 0-2-2H3a2 2 0 0 0-2 2v3l11 6z" style="fill:#fff;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.4px" transform="translate(-.3 -2.3)"></path>
+</symbol></defs>
+                        <use xlink:href="#letter-outline"></use>
+                    </svg>
